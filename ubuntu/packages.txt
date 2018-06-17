@@ -8,4 +8,4 @@ libapache2-mod-wsgi-py3
 postgresql
 postgresql-client
 
-penjdk-8-jre-headless
+openjdk-8-jre-headless
